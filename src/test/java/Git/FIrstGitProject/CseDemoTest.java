@@ -15,6 +15,6 @@ class CseDemoTest {
 	@Test
 	void test2(){
 		int result = cal.mul(2, 3);
-		assertEquals(5, result);
+		assertEquals(6, result);
 	}
 }
